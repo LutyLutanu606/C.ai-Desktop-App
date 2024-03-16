@@ -1,0 +1,15 @@
+{
+  "name": "your-electron-app",
+  "version": "1.0.0",
+  "description": "Your Electron Application Description",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "ЕxЧS ЯАЬУ 愛してる自殺しないでください Aka Luty",
+  "license": "MIT",
+  "dependencies": {
+    "@cliqz/adblocker-webextension": "^1.26.16",
+    "electron": "^29.1.4"
+  }
+}
